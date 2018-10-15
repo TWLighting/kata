@@ -1,3 +1,4 @@
 <?php
 $str='ddfsdfd';
-strlen($str);
+$long=strlen($str);
+echo $long;
