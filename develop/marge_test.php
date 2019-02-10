@@ -6,5 +6,7 @@
  * Time: 下午 11:15
  */
 function test(){
-    echo "test";
+    $thai='good tea';
+    $new_thai=substr($thai,0,4);
+    echo $new_thai;
 }
